@@ -88,6 +88,7 @@ urlpatterns = [
 <img width="1365" height="677" alt="Screenshot 2025-11-26 220603" src="https://github.com/user-attachments/assets/41a56685-8ba8-492b-942b-4f30140f6fc1" />
 
 <img width="1365" height="679" alt="Screenshot 2025-11-26 220323" src="https://github.com/user-attachments/assets/10a1bdfb-5233-4972-8bd1-10ffef6e12f0" />
+<img width="1365" height="767" alt="Screenshot 2025-11-26 214407" src="https://github.com/user-attachments/assets/5cb6cfe0-6a31-4a2f-b8b5-c0e0c5be8d66" />
 
 
 
